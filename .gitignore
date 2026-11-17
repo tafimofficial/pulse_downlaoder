@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Build artifacts
+**/target/
+**/dist/
+**/dist-ssr/
+**/gen/schemas/
+
+# Binaries & Outputs
+*.exe
+*.dll
+*.pdb
+*.bin
+output.txt
+*.tmp
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
