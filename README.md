@@ -54,14 +54,14 @@
 
 ---
 
-## 📁 Executable Files Location
+## 📁 Downloads & GitHub Release
 
-Both the native setup installer and standalone executable are compiled and ready in `d:\faster download`:
+You can download the compiled binaries directly from the [v1.0.0 Release](https://github.com/tafimofficial/pulse_downlaoder/releases/tag/v1.0.0):
 
-| File | Type | Size | Description |
-|---|---|---|---|
-| **`PulseDL_Setup.exe`** | Native Installer | ~2.36 MB | Official Windows Setup Installer with Desktop & Start Menu shortcuts |
-| **`PulseDL.exe`** | Native Binary | ~6.80 MB | Standalone executable (direct run) |
+| File | Type | Size | Direct Download Link | Description |
+|---|---|---|---|---|
+| **`PulseDL_Setup.exe`** | Official Installer | ~3.01 MB | [📥 Download Setup](https://github.com/tafimofficial/pulse_downlaoder/releases/download/v1.0.0/PulseDL_Setup.exe) | Official Windows Setup Installer with Desktop & Start Menu shortcuts |
+| **`PulseDL.exe`** | Standalone Binary | ~11.67 MB | [📥 Download Portable](https://github.com/tafimofficial/pulse_downlaoder/releases/download/v1.0.0/PulseDL.exe) | Standalone portable executable (direct run, zero install) |
 
 ---
 
